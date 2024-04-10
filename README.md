@@ -1,2 +1,1 @@
-# mthesis
-Case intensity prediction for the GGD's AO team
+# Case intensity prediction for the GGD's AO team
